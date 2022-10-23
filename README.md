@@ -31,17 +31,21 @@ Step2:Import matplotlib.pyplot.
   
   Step12:Plot Income , Loan and display them.
    
-   Step13:Declare a variable kmean = KMean(n_cluster_centers_) and execute kmean.fit(x).
+  Step13:Declare a variable kmean = KMean(n_cluster_centers_) and execute kmean.fit(x).
     
-    Step14:Display kmean.cluster)centers 
+  Step14:Display kmean.cluster)centers 
     
-    Step15:Display kmean.labels_ 
+  Step15:Display kmean.labels_ 
     
-    Step16:Declare a variable predcited_class to kmean.predict([[]]) and give two arguments in it. 
+  Step16:Declare a variable predcited_class to kmean.predict([[]]) and give two arguments in it. 
     
-    Step17:Display the predicted_class
+  Step17:Display the predicted_class
 
 ## Program:
+
+Developed by:sarvesh.s
+
+RegisterNumber: 22003029
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
